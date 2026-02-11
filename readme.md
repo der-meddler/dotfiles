@@ -1,3 +1,5 @@
+## Not maintained anymore as I moved to niri
+
 # Dotfiles for Hyprland on Arch Linux
 
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux&logoColor=white)](https://archlinux.org/)
